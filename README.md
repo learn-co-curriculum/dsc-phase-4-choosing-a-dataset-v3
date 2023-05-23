@@ -41,7 +41,7 @@ The MovieLens dataset has explicit ratings, so achieving some sort of evaluation
 
 ### Topic 2: Model Interpretability
 
-If you choose this option, you'll put everything you've learned together to build and explain a model that is trained on a dataset. In this case, your model will explain the underlying causes in vehicle crashes. The dataset comes from the [City of Chicago](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if)). Note this links also to [Vehicle Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3) and to [Driver/Passenger Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d).
+If you choose this option, you'll put everything you've learned together to build and explain a model that is trained on a dataset. In this case, your model will explain the underlying causes in vehicle crashes. The dataset comes from the [City of Chicago](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if). Note this links also to [Vehicle Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3) and to [Driver/Passenger Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d).
 
 Your task is to:
 
